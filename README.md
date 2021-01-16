@@ -1,2 +1,2 @@
 # hello-world
-From the GitHub guides document
+From the GitHub guides document. Plus some edits.
